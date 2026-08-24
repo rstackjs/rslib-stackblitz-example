@@ -1,5 +1,7 @@
-import { defineConfig } from '@rslib/core';
+import { defineConfig } from "@rslib/core";
 
 export default defineConfig({
-  dts: true,
+  performance: {
+    buildCache: false,
+  },
 });
