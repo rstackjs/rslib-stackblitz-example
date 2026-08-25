@@ -1,7 +1,7 @@
 # Rslib project
 
 <p>
-  <a target="_blank" href="https://stackblitz.com/fork/github/rstackjs/rslib-stackblitz-example">
+  <a target="_blank" href="https://stackblitz.com/~/github.com/rstackjs/rslib-stackblitz-example">
     <img
       alt="Open in StackBlitz"
       src="https://developer.stackblitz.com/img/open_in_stackblitz.svg"
