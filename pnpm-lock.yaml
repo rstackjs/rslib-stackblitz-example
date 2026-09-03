@@ -9,7 +9,7 @@ devDependencies:
     specifier: ^7.59.0
     version: 7.59.0(@types/node@24.13.3)
   '@rslib/core':
-    specifier: 1.0.0
+    specifier: ~1.0.0
     version: 1.0.0(@microsoft/api-extractor@7.59.0)(typescript@6.0.3)
   '@types/node':
     specifier: ^24.13.3
