@@ -4,7 +4,11 @@ export default defineConfig({
   dts: {
     bundle: true,
   },
-  performance: {
-    buildCache: false,
+  tools: {
+    rspack: {
+      experiments: {
+        newCache: true,
+      },
+    },
   },
 });
