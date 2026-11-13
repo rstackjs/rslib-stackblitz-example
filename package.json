@@ -31,8 +31,5 @@
   "stackblitz": {
     "startCommand": "pnpm run build"
   },
-  "packageManager": "pnpm@8.15.6",
-  "dependencies": {
-    "rslib-stackblitz-example": "link:"
-  }
+  "packageManager": "pnpm@8.15.6"
 }

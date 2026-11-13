@@ -4,11 +4,6 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-dependencies:
-  rslib-stackblitz-example:
-    specifier: 'link:'
-    version: 'link:'
-
 devDependencies:
   '@rslib/core':
     specifier: ~1.1.0-beta.0
